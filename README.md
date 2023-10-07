@@ -2,7 +2,7 @@
 
 A simple CHIP8 emulator written in C with Raylib for the graphics. For now I didn't implement the functions to handle sound, but all the opcodes were implemented.
 
-I wrote the code following the code available at: https://github.com/queso-fuego/chip8_emulator_c
+I wrote the code referencing the code available at: https://github.com/queso-fuego/chip8_emulator_c
 
 # Used Links:
 
